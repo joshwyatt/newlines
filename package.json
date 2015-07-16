@@ -1,0 +1,19 @@
+{
+  "name": "newlines",
+  "version": "0.1.0",
+  "description": "Create a string with as many newlines as you would like",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/joshwyatt/newlines.git"
+  },
+  "author": "joshwyatt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshwyatt/newlines/issues"
+  },
+  "homepage": "https://github.com/joshwyatt/newlines"
+}
